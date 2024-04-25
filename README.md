@@ -1,2 +1,2 @@
 # OCaml-99-Problems
- 99 Lisp Problems Solved in OCaml
+Learning OCaml by attempting the 99 Lisp problems!
