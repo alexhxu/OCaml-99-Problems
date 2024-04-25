@@ -1,0 +1,16 @@
+# dune exec ./p5.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/alexxu/.cache/dune/db
+# Workspace root: /Users/alexxu/Documents/GitHub/OCaml-99-Problems
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/alexxu/.opam/cs3110-2024sp/bin/ocamlc.opt -config > /var/folders/_x/8t_55cn12mx9jvwcy8f8lcqw0000gn/T/dune_0793bd_output
